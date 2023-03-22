@@ -1,0 +1,17 @@
+.input-block {
+  
+}
+input {
+margin: 10px 0px;
+}
+.input-light {
+    background-color: rgb(240, 247, 247);
+    color: rgb(47, 45, 42);
+    font-size: 20px;
+}
+
+.input-dark {
+    background-color: rgb(78, 124, 124);
+    color: rgb(247, 240, 231);
+    font-size: 20px;
+}
